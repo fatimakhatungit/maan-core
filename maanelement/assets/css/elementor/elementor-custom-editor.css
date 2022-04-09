@@ -1,0 +1,14 @@
+div#elementor-panel-state-loading {
+    display: none !important;
+}
+div#elementor-notice-bar {
+    display: none;
+}
+div#elementor-panel-categories {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+.elementor-panel-category {
+    width: 100%;
+}
